@@ -313,6 +313,60 @@
           "actual": 100,
           "actualColor": "hsl(202, 70%, 50%)"
         }
+      ],
+      "pieData": [
+        {
+          "id": "sass",
+          "label": "sass",
+          "value": 522,
+          "color": "hsl(140, 70%, 50%)"
+        },
+        {
+          "id": "ruby",
+          "label": "ruby",
+          "value": 124,
+          "color": "hsl(278, 70%, 50%)"
+        },
+        {
+          "id": "java",
+          "label": "java",
+          "value": 237,
+          "color": "hsl(178, 70%, 50%)"
+        },
+        {
+          "id": "c",
+          "label": "c",
+          "value": 5,
+          "color": "hsl(348, 70%, 50%)"
+        },
+        {
+          "id": "stylus",
+          "label": "stylus",
+          "value": 372,
+          "color": "hsl(145, 70%, 50%)"
+        }
+      ],
+      "mapData": [
+        {
+          "id": "IND",
+          "value": 897962
+        },
+        {
+          "id": "AGO",
+          "value": 325721
+        },
+        {
+          "id": "ALB",
+          "value": 713610
+        },
+        {
+          "id": "ARE",
+          "value": 903767
+        },
+        {
+          "id": "ARG",
+          "value": 967291
+        }
       ]
     }
   ]
